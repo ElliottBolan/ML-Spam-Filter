@@ -1,0 +1,9 @@
+Hello! To run the project1.py you should be able to just put it in your IDE, install the libraries, and run it.
+use the following command below to install the included libraries:
+
+pip install numpy pandas nltk scikit-learn
+
+The logistic regression will take more time compared to the others but it does work.
+I used VSCode, and Python 3.13.2
+Please email me if you have any questions at:
+exb210027@utdallas.edu
